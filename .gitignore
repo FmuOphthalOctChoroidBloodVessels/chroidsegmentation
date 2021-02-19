@@ -1,0 +1,16 @@
+# MATLAB project settings
+.prj
+
+# Rope project settings
+.ropeproject
+
+# link
+*.lnk
+
+# sample data
+_sample_data/*
+_sample_doc/*
+_storage/*
+
+# experiments folder
+_experiments/*
