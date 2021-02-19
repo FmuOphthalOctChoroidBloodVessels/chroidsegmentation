@@ -2,10 +2,10 @@
 
 #### **バグをみつけたとき**
 
-* **同様のバグがすでに報告されていないか確かめてください：** [こちら](https://github.com/FmuOphthalOctChoroidBloodVessels/vesselnessfilter/issues)で過去のバグ報告を検索できます．
+* **同様のバグがすでに報告されていないか確かめてください：** [こちら](https://github.com/FmuOphthalOctChoroidBloodVessels/chroidsegmentation/issues)で過去のバグ報告を検索できます．
 
 * もし同様のバグ報告をみつけられなかったときには新しいissueを作成してください．
-  1. まず，[Issule作成ページ](https://github.com/FmuOphthalOctChoroidBloodVessels/vesselnessfilter/issues/new/choose)に移動します
+  1. まず，[Issule作成ページ](https://github.com/FmuOphthalOctChoroidBloodVessels/chroidsegmentation/issues/new/choose)に移動します
   2. つぎに，"Bug report"のテンプレートを選びます（右側の"Get started"ボタンをクリックしてください）
   3. タイトル欄の"[BUG]"というヘッダに続いて**明瞭かつ簡潔なタイトル**を記入してください
   4. 本文では，テンプレートに従って必要事項を**明確かつ簡潔に**ご記入ください．状況把握および問題解決にとても大切です．
@@ -19,10 +19,10 @@
 
 #### **新たな機能追加の要望や提案などについて**
 
-* **Issuesに同様の要望や提案がないかを確かめてください：**[こちら](https://github.com/FmuOphthalOctChoroidBloodVessels/vesselnessfilter/issues)で過去の要望などを検索できます．
+* **Issuesに同様の要望や提案がないかを確かめてください：**[こちら](https://github.com/FmuOphthalOctChoroidBloodVessels/chroidsegmentation/issues)で過去の要望などを検索できます．
 
 * もし同様の要望や提案がない場合は，あらたにissueを立ち上げてください．
-  1. まず，[Issule作成ページ](https://github.com/FmuOphthalOctChoroidBloodVessels/vesselnessfilter/issues/new/choose)に移動します
+  1. まず，[Issule作成ページ](https://github.com/FmuOphthalOctChoroidBloodVessels/chroidsegmentation/issues/new/choose)に移動します
   2. つぎに，"Feature request"と書かれたテンプレートを選びます（右側の"Get started"ボタンをクリックしてください）
   3. タイトル欄の"[FEATURE]"というヘッダに続いて**明瞭かつ簡潔なタイトル**を記入してください
   4. 本文では，テンプレートに従って必要事項を**明確かつ簡潔に**ご記入ください．状況把握および問題解決にとても大切です．
