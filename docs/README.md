@@ -1,7 +1,7 @@
 # このプロジェクトが行うこと
-脈絡膜層の抽出：機械学習を用いた画像処理技術による脈絡膜層の領域分割（cf. [Kei Otsuka., 2021](https://www.mathworks.com/matlabcentral/fileexchange/66448-medical-image-segmentation-using-segnet)）
-脈絡膜層の平滑化：3次平滑化スプラインを用いた脈絡膜層の平滑化
-脈絡膜層厚マップの作成：脈絡膜層厚のヒートマップを用いた可視化
+- 脈絡膜層の抽出：機械学習を用いた画像処理技術による脈絡膜層の領域分割（cf. [Kei Otsuka., 2021](https://www.mathworks.com/matlabcentral/fileexchange/66448-medical-image-segmentation-using-segnet)）
+- 脈絡膜層の平滑化：3次平滑化スプラインを用いた脈絡膜層の平滑化
+- 脈絡膜層厚マップの作成：脈絡膜層厚のヒートマップを用いた可視化
 
 # このプロジェクトが有益な理由
 脈絡膜を3次元再構築することにより，脈絡膜の立体構造を把握し、肥厚や菲薄化などの局所的な形態変化をとらえることが可能となり、また数理的解析も行うことができます.
