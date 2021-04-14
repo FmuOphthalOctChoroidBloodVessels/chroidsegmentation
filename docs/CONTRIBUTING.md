@@ -30,9 +30,12 @@
 
 #### **ソースコードに関する質問**
 
-* 質問はGoogle Groupで受け付けています．
-* Google Groupに参加を希望する方は，管理者（m161089@fmu.ac.jp）までご連絡ください．
-* Google Groupへの投稿・返信に関する一般的は紹介は[こちらのページ](https://support.google.com/groups/answer/1046523?hl=ja&ref_topic=2458613)をご覧ください．
+* 質問はGitHub Discussionsで受け付けています．
+* 本リポジトリのGitHub Discussionsは[こちら](https://github.com/FmuOphthalOctChoroidBloodVessels/chroidsegmentation/discussions)です．
+* 質問をしたり，質問に答えたり，最新情報を共有したり，自由形式の会話をしたり，コミュニティの動向に影響を与える決定をフォローしたりすることができます．
+* 詳細は以下のサイトをご覧ください．
+  - [ディスカッションについて](https://docs.github.com/ja/discussions/collaborating-with-your-community-using-discussions/about-discussions)
+  - [ディスカッションに参加する](https://docs.github.com/ja/discussions/collaborating-with-your-community-using-discussions/participating-in-a-discussion)
 
 #### **バグ修正パッチを書いたとき**
 
