@@ -42,7 +42,7 @@ PixelLabelDataはFileフォルダー内に入れておきます.
 
 # このプロジェクトに関するヘルプをどこで得るか
 * バグ報告・ご要望などは[issue](https://github.com/FmuOphthalOctChoroidBloodVessels/chroidsegmentation/issues)にて受け付けております．
-* ご質問は管理者（m161089@fmu.ac.jp）までご連絡ください．
+* ご質問などは[GitHub Discussions](https://github.com/FmuOphthalOctChoroidBloodVessels/chroidsegmentation/discussions)にて受け付けております．GitHub Discussionについては[ドキュメンテーション](https://docs.github.com/ja/discussions/collaborating-with-your-community-using-discussions/participating-in-a-discussion)をご覧ください．
 
 # 引用
 このソフトウェアを使った研究を学術文献として発表する場合は以下の文献を引用していただけると大変うれしいです
