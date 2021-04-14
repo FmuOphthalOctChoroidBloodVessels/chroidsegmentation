@@ -31,7 +31,7 @@
 #### **ソースコードに関する質問**
 
 * 質問はGoogle Groupで受け付けています．
-* Google Groupに参加を希望する方は，管理者（mokamoto@fmu.ac.jp）までご連絡ください．
+* Google Groupに参加を希望する方は，管理者（m161089@fmu.ac.jp）までご連絡ください．
 * Google Groupへの投稿・返信に関する一般的は紹介は[こちらのページ](https://support.google.com/groups/answer/1046523?hl=ja&ref_topic=2458613)をご覧ください．
 
 #### **バグ修正パッチを書いたとき**
